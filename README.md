@@ -55,7 +55,7 @@ In fact, most students who perform well academically are just more studious, but
 First semester at university, I took 17 modules at once, grades were not great for it, so I used a technique:
 
 **Phase 1**: Cumulative reading after classes 
-Read each slide/note title/headers only, close the book, then visualise and write an explanation for that concept. Only re-read what you missed, similar to masked-language modeling in machine learning. After the re-read, ultimately implement the concept in code after. You develop muscle memory for each concept.  
+Read each material after class, before bed. The next lecture, start all over until the current end, then fill knowledge gaps with additional research. This allows your brain to connect the patterns. 
 
 **Phase 2**: Shadow reading before exams 
 Read each slide/note subtitle, close the book, then visualise and write an explanation for that concept. Only re-read what you missed, similar to masked-language modelling in machine learning. After the re-read, ultimately implement the concept in code after. You develop muscle memory for each concept. 
